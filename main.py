@@ -6,7 +6,7 @@ import json
 
 app = Flask(__name__)
 
-URL = 'https://api.telegram.org/bot5019823751:AAE0K6MqTcVnaNqqujTTjXMfLS5Oa__JavQ/'
+URL = 'https://api.telegram.org/'
 
 
 def main(URL):
